@@ -1,0 +1,22 @@
+{
+  "name": "api_mailer",
+  "version": "1.0.0",
+  "description": "Api que vai receber informções e enviar um email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "email",
+    "express",
+    "nodejs"
+  ],
+  "author": "NikolasMenezes",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.9"
+  }
+}
